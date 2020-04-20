@@ -1,2 +1,2 @@
 # TwitterDataMining
-DataMining for Twitter
+Data Harvesting for Twitter
