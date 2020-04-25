@@ -1,0 +1,5 @@
+python3 Exporter.py  --querysearch "#ApologizetoKaachi" --maxtweets -1
+python3 Exporter.py  --querysearch "beingmsaad" --maxtweets -1
+python3 Exporter.py  --querysearch "SalooDurrani" --maxtweets -1
+python3 Exporter.py  --querysearch "aj_gatta" --maxtweets -1
+
