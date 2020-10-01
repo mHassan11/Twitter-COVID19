@@ -1,7 +1,0 @@
-python3 Exporter.py  --querysearch "COVID19" --maxtweets 100
-python3 Exporter.py  --querysearch "Monday" --maxtweets 100
-python3 Exporter.py  --querysearch "newyear" --maxtweets 100
-python3 Exporter.py  --querysearch "pakistan" --maxtweets 100
-python3 Exporter.py  --querysearch "love" --maxtweets 100
-python3 Exporter.py  --querysearch "hate" --maxtweets 100
-python3 Exporter.py  --querysearch "game" --maxtweets 100
