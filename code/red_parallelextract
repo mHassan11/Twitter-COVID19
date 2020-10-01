@@ -1,0 +1,4 @@
+python3 extractdata_trans.py Israel hebrew
+python3 extractdata_trans.py Switzerland german
+python3 extractdata_trans.py Peru spanish
+python3 extractdata_trans.py Brazil portuguese

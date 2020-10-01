@@ -1,0 +1,6 @@
+rm -rf /home/saad/Data/Twitter/country/Brazil/stats/*
+rm -rf /home/saad/Data/Twitter/country/Israel/stats/*
+rm -rf /home/saad/Data/Twitter/country/Switzerland/stats/*
+rm -rf /home/saad/Data/Twitter/country/Brazil/plots/*
+rm -rf /home/saad/Data/Twitter/country/Israel/plots/*
+rm -rf /home/saad/Data/Twitter/country/Switzerland/plots/*

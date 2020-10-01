@@ -1,0 +1,6 @@
+python3 extractdata_trans.py Spain spanish
+python3 extractdata_trans.py Sweden swedish
+python3 extractdata_trans.py USA english
+python3 extractdata_trans.py Italy italian
+python3 extractdata_trans.py Austria german
+python3 extractdata_trans.py Belgium dutch

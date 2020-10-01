@@ -1,0 +1,6 @@
+python3 nlp.py Spain spanish
+python3 nlp.py Sweden swedish
+python3 nlp.py USA english
+python3 nlp.py Italy italian
+python3 nlp.py Belgium dutch
+python3 nlp.py Austria german

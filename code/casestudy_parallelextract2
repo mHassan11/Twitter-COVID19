@@ -1,0 +1,6 @@
+python3 sentiment.py Spain spanish
+python3 sentiment.py Sweden swedish
+python3 sentiment.py USA english
+python3 sentiment.py Italy italian
+python3 sentiment.py Belgium dutch
+python3 sentiment.py Austria german
